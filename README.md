@@ -1,4 +1,6 @@
-# Note-Taker## Description
+# Note-Taker
+
+## Description
 
 This application can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
@@ -18,7 +20,7 @@ This application can be used to write, save, and delete notes. This application 
 
 ## Visualization of App Interface
 
-![Fitness Tracker](Fitness-Tracker.gif)
+![Note Taker](Note-Taker.gif)
 
 ## Installation
 
